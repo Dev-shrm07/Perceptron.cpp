@@ -3,7 +3,7 @@
 This project implements a single perceptron from scratch in C++, utilizing ReLU activation function and gradient descent for training. The perceptron is trained on an income dataset to predict outcomes based on input features.
 
 ## Overview
-
+ 
 The project implements a basic single perceptron model with the following features:
 
 - **Perceptron Class**: Implemented in C++, this class includes methods for initialization, prediction using ReLU activation, and training using gradient descent.
